@@ -44,5 +44,6 @@ me.say_hi()
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morningdip&layout=compact&theme=dark&hide_border=true)
+![](https://raw.githubusercontent.com/morningdip/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/morningdip/github-stats-transparent/output/generated/overview.svg)
 
