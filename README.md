@@ -43,7 +43,3 @@ me.say_hi()
 - ⚡️ Fun fact: I'm a huge fan of **Harry Potter**
 
 ---
-
-![](https://raw.githubusercontent.com/morningdip/github-stats-transparent/output/generated/languages.svg)
-![](https://raw.githubusercontent.com/morningdip/github-stats-transparent/output/generated/overview.svg)
-
